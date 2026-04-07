@@ -13,4 +13,3 @@ app_name = "cinema"
 urlpatterns = [
     path("", include(router.urls)),
 ]
-a
